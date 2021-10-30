@@ -1,0 +1,3 @@
+- Hi, my name is Hazem Sabsabi
+- I’m interested in software development and software engineering.
+- I’m currently finishing my Computer Science degree at Western University
