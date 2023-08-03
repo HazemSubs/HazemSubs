@@ -1,4 +1,4 @@
 - Hi, my name is Hazem Sabsabi
-- I’m interested in software development and software engineering.
-- I’m currently finishing my Computer Science degree at Western University (Graduating in June of 2023).
-- Currently open and interested in Software developer positions.
+- I’m interested in application development and making user-friendly applications.
+- Recently graduated with a degree in Computer Science from Western University (June of 2023 graduate).
+- Open to Software developer positions, feel free to reach out on my LinkedIn page: https://www.linkedin.com/in/hazem-sabsabi-a78987251/
